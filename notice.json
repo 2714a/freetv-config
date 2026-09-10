@@ -1,1 +1,17 @@
 
+{
+  "versionCode": 11,
+  "versionName": "1.1.9",
+  "note": "1. 首页新增直播栏目\n2. 优化播放速度\n3. 修复已知问题",
+  "apkUrl": "",
+  "downloadPage": "",
+  "force": false,
+  "notice": {
+    "id": "20240601",
+    "title": "平台公告",
+    "content": "欢迎使用免费追全网剧\n本APP完全免费，无广告。\n资源均来自第三方公开接口，仅供学习交流。",
+    "button": "我知道了",
+    "url": "",
+    "once": true
+  }
+}
